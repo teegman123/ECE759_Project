@@ -4,14 +4,14 @@ library(Rsubread)
 library(GenomicFeatures)
 
 # Initialize file paths 
-programs_path = '/home/temccrac/Programs'
-git_path = file.path(prgrams_path, 'git_clones/ECE759_project')
+programs_path = '/Users/teaguemcc/Programs'
+git_path = file.path(programs_path, 'git_clones/ECE759_project')
 gtf_path = file.path(programs_path, 'data/genomes/Arabidopsis_thaliana.TAIR10.54.gtf') # only stored on cloudy server
 
 # Load the data from csv file
-data <- read.csv('/Users/teaguemcc/Programs/git_clones/ECE759_Project/cellular_clarity/read_count_matrix.csv', row.names = 1)
+data <- read.csv(file.path(git_path, 'cellular_clarity/read_count_matrix.csv'), row.names = 1)
 data_matrix <- as.matrix(t(data)) # Transpose where columns are samples and rows are genes for edgeR
-sample_names <- read.csv('/Users/teaguemcc/Programs/git_clones/ECE759_Project/cellular_clarity/sample_names.csv', row.names = 1)
+sample_names <- read.csv(file.path(git_path, 'cellular_clarity/sample_names.csv'), row.names = 1)
 
 
 # Check if row names in sample_names match column names in data_matrix
@@ -28,10 +28,24 @@ table(group)
 print(identical(rownames(sample_names), colnames(dge$counts)))  # Check if sample order matches: Should return TRUE
 
 # Creating gene_lenths for RPKM calculation 
-txdb <- makeTxDbFromGFF("", format = "gtf") # Creates a transcript database
+    #txdb <- makeTxDbFromGFF(gtf_path, format = "gtf") # Creates a transcript database from the gtf file
+    #exons_by_gene <- exonsBy(txdb, by = "gene")
+    #gene_lengths <- sapply(exons_by_gene, function(exons) sum(width(reduce(exons))))
+    #gene_id_list <- rownames(data_matrix)
+    #gene_lengths_of_interest <- gene_lengths[intersect(names(gene_lengths), gene_id_list)]
+    #write.csv(gene_lengths_of_interest, file.path(git_path, "cellular_clarity/gene_lengths.csv"))
+gene_lengths <- read.csv(file.path(git_path, 'cellular_clarity/gene_lengths.csv'), row.names = 1)
 
 # Normalize Counts - use RPKM normalized data (Selene's disertation section 4.3.2)
+gene_lengths_vector <- gene_lengths[[1]]  # extract first (or appropriate) column, # Convert to named numeric vector
+names(gene_lengths_vector) <- rownames(gene_lengths)
+dge$genes$Length <- gene_lengths_vector[rownames(dge$counts)] # Subset to genes in DGE object
+rpkm_values <- rpkm(dge)
+write.csv(rpkm_values, file.path(git_path, "cellular_clarity/rpkm_values.csv"))
+rpkm_values <- read.csv(file.path(git_path, 'cellular_clarity/rpkm_values.csv'), row.names = 1) # Saved rpkm_values to be in genes x samples 
+# print(sum(is.na(dge$genes$Length)))  # Should be 0, tested and this was true
 
+stop("stopping")
 
 # Filter lowly expressed genes - need to use the logic presented in paper methods (Selene's disertation section 4.3.2)
 

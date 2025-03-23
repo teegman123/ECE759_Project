@@ -1,11 +1,18 @@
+# Load packages
 library(edgeR)
 library(Rsubread)
 library(GenomicFeatures)
+
+# Initialize file paths 
+programs_path = '/home/temccrac/Programs'
+git_path = file.path(prgrams_path, 'git_clones/ECE759_project')
+gtf_path = file.path(programs_path, 'data/genomes/Arabidopsis_thaliana.TAIR10.54.gtf') # only stored on cloudy server
 
 # Load the data from csv file
 data <- read.csv('/Users/teaguemcc/Programs/git_clones/ECE759_Project/cellular_clarity/read_count_matrix.csv', row.names = 1)
 data_matrix <- as.matrix(t(data)) # Transpose where columns are samples and rows are genes for edgeR
 sample_names <- read.csv('/Users/teaguemcc/Programs/git_clones/ECE759_Project/cellular_clarity/sample_names.csv', row.names = 1)
+
 
 # Check if row names in sample_names match column names in data_matrix
 if (all(rownames(sample_names) %in% colnames(data_matrix))) {

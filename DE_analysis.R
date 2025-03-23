@@ -1,4 +1,6 @@
 library(edgeR)
+library(Rsubread)
+library(GenomicFeatures)
 
 # Load the data from csv file
 data <- read.csv('/Users/teaguemcc/Programs/git_clones/ECE759_Project/cellular_clarity/read_count_matrix.csv', row.names = 1)
@@ -15,15 +17,16 @@ if (all(rownames(sample_names) %in% colnames(data_matrix))) {
     stop("Mismatch: Some row names in sample_names do not match columns in data_matrix")
 }
 # Check that group levels match expected conditions
-#table(group)
-#print(identical(rownames(sample_names), colnames(dge$counts)))  # Check if sample order matches: Should return TRUE
+table(group)
+print(identical(rownames(sample_names), colnames(dge$counts)))  # Check if sample order matches: Should return TRUE
 
-# Filter lowly expressed genes
-keep <- filterByExpr(dge, group = group)
-dge <- dge[keep, , keep.lib.sizes = FALSE]
+# Creating gene_lenths for RPKM calculation 
+txdb <- makeTxDbFromGFF("", format = "gtf") # Creates a transcript database
 
-# Normalize Counts - accounts for differences in library sizes, do not do this, instead use RPKM normalized data
-#dge <- normLibSizes(dge)
+# Normalize Counts - use RPKM normalized data (Selene's disertation section 4.3.2)
+
+
+# Filter lowly expressed genes - need to use the logic presented in paper methods (Selene's disertation section 4.3.2)
 
 # Create a design matrix consistent with comparing Fe - to Fe + samples
 # Convert group names into valid R variable names while keeping Fe+ and Fe- distinct

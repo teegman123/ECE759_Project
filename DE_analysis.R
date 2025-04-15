@@ -46,7 +46,7 @@ names(gene_lengths_vector) <- rownames(gene_lengths) # Convert to named numeric 
 dge$genes$Length <- gene_lengths_vector[rownames(dge$counts)] # Provide gene lengths to DGE object # nolint
 #rpkm_values <- rpkm(dge) # Only needed to do once, see read.csv command below # nolint
 #write.csv(rpkm_values, file.path(git_path, "cellular_clarity/rpkm_values.csv")) # nolint
-rpkm_values <- read.csv(file.path(git_path, "cellular_clarity/rpkm_values.csv"), row.names = 1, check.names = FALSE) # Saved rpkm_values to be in genes x samples  # nolint
+rpkm_values <- read.csv(file.path(git_path, "cellular_clarity/paperresults/rpkm_values_pr.csv"), row.names = 1, check.names = FALSE) # Saved rpkm_values to be in genes x samples  # nolint
 # Rename columns of rpkm_values using sample_metadata$sample_name, converting to "A + 1" # nolint
 #colnames(rpkm_values) <- sample_metadata[colnames(rpkm_values), "sample_name"]
 # Rename dge sample columns to match rpkm_values, temporary

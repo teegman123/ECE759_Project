@@ -1,0 +1,384 @@
+Motif Description,AGI,GeneSymbol,Description
+ABI3VP1_tnt.AT5G18090_col_a_m1,AT5G18090,,AP2/B3-like transcriptional factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:831636]
+ABI3VP1_tnt.AT5G60130_col_a_m1,AT5G60130,,AP2/B3-like transcriptional factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:836135]
+ABI3VP1_tnt.FUS3_col_a_m1,AT3G26790,FUS3,AP2/B3-like transcriptional factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:822293]
+ABI3VP1_tnt.REM16_col_a_m1,AT4G33280,REM16,
+ABI3VP1_tnt.VRN1_col_a_m1,AT3G18990,VRN1,AP2/B3-like transcriptional factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:821432]
+AP2EREBP_tnt.ABR1_col_a_m1,AT5G64750,ABR1,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:836596]
+AP2EREBP_tnt.AT1G01250_col_a_m1,AT1G01250,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:839322]
+AP2EREBP_tnt.AT1G12630_col_a_m1,AT1G12630,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:837819]
+AP2EREBP_tnt.AT1G28160_col_a_m1,AT1G28160,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:839710]
+AP2EREBP_tnt.AT1G44830_col_a_m1,AT1G44830,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:841047]
+AP2EREBP_tnt.AT1G71450_col_a_m1,AT1G71450,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:843486]
+AP2EREBP_tnt.AT1G77200_col_a_m1,AT1G77200,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:844056]
+AP2EREBP_tnt.AT3G16280_col_a_m1,AT3G16280,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:820874]
+AP2EREBP_tnt.AT3G57600_col_a_m1,AT3G57600,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:824929]
+AP2EREBP_tnt.AT3G60490_col_a_m1,,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:825220]
+AP2EREBP_tnt.AT4G18450_col_a_m1,AT4G18450,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:827576]
+AP2EREBP_tnt.At1g19210_col_a_m1,AT1G19210,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:838504]
+AP2EREBP_tnt.At1g22810_col_m1,AT1G22810,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:838887]
+AP2EREBP_tnt.At1g36060_col_a_m1,AT1G36060,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:840510]
+AP2EREBP_tnt.At1g75490_col_a_m1,AT1G75490,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:843885]
+AP2EREBP_tnt.At1g77640_col_a_m1,AT1G77640,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:844099]
+AP2EREBP_tnt.At2g33710_col_m1,AT2G33710,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:817936]
+AP2EREBP_tnt.At2g44940_col_a_m1,AT2G44940,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:819103]
+AP2EREBP_tnt.At4g16750_col_a_m1,AT4G16750,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:827379]
+AP2EREBP_tnt.At4g28140_col_a_m1,AT4G28140,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:828929]
+AP2EREBP_tnt.At4g31060_col_a_m1,AT4G31060,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:829233]
+AP2EREBP_tnt.At4g32800_col_m1,AT4G32800,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:829416]
+AP2EREBP_tnt.At5g18450_col_a_m1,AT5G18450,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:831963]
+AP2EREBP_tnt.At5g65130_col_a_m1,AT5G65130,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:836637]
+AP2EREBP_tnt.At5g67000_col_a_m1,AT5G67000,,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:836835]
+AP2EREBP_tnt.CBF1_col_a_m1,AT4G25490,CBF1,C-repeat/DRE binding factor 1 [Source:NCBI gene (formerly Entrezgene);Acc:828653]
+AP2EREBP_tnt.CBF2_col_a_m1,AT4G25470,CBF2,C-repeat/DRE binding factor 2 [Source:NCBI gene (formerly Entrezgene);Acc:828651]
+AP2EREBP_tnt.CBF3_col_a_m1,AT4G25480,CBF3,
+AP2EREBP_tnt.CBF4_col_a_m1,AT5G51990,CBF4,C-repeat-binding factor 4 [Source:NCBI gene (formerly Entrezgene);Acc:835274]
+AP2EREBP_tnt.CEJ1_col_a_m1,AT3G50260,CEJ1,cooperatively regulated by ethylene and jasmonate 1 [Source:NCBI gene (formerly Entrezgene);Acc:824188]
+AP2EREBP_tnt.CRF10_col100_a_m1,AT1G68550,CRF10,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:843184]
+AP2EREBP_tnt.CRF4_col_a_m1,AT4G27950,CRF4,cytokinin response factor 4 [Source:NCBI gene (formerly Entrezgene);Acc:828908]
+AP2EREBP_tnt.DDF1_col_a_m1,AT1G12610,DDF1,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:837817]
+AP2EREBP_tnt.DDF2_col_a_m1,AT1G63030,DDF2,
+AP2EREBP_tnt.DEAR2_col_a_m1,AT5G67190,DEAR2,DREB and EAR motif protein 2 [Source:NCBI gene (formerly Entrezgene);Acc:836854]
+AP2EREBP_tnt.DEAR3_col_a_m1,AT2G23340,DEAR3,DREB and EAR motif protein 3 [Source:NCBI gene (formerly Entrezgene);Acc:816866]
+AP2EREBP_tnt.DEAR5_col_a_m1,AT4G06746,DEAR5,
+AP2EREBP_tnt.DREB19_col_a_m1,AT2G38340,DREB19,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:818414]
+AP2EREBP_tnt.DREB26_col_a_m1,AT1G21910,DREB26,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:838793]
+AP2EREBP_tnt.DREB2_col_a_m1,AT5G05410,DREB2,
+AP2EREBP_tnt.ERF104_col_a_m1,AT5G61600,ERF104,ethylene response factor 104 [Source:NCBI gene (formerly Entrezgene);Acc:836281]
+AP2EREBP_tnt.ERF105_col_m1,AT5G51190,ERF105,
+AP2EREBP_tnt.ERF10_col_a_m1,AT1G03800,ERF10,ERF domain protein 10 [Source:NCBI gene (formerly Entrezgene);Acc:839173]
+AP2EREBP_tnt.ERF115_col_a_m1,AT5G07310,ERF115,
+AP2EREBP_tnt.ERF11_col_b_m1,AT1G28370,ERF11,ERF domain protein 11 [Source:NCBI gene (formerly Entrezgene);Acc:839733]
+AP2EREBP_tnt.ERF13_col_b_m1,AT2G44840,ERF13,ethylene-responsive element binding factor 13 [Source:NCBI gene (formerly Entrezgene);Acc:819093]
+AP2EREBP_tnt.ERF15_col_m1,AT2G31230,ERF15,ethylene-responsive element binding factor 15 [Source:NCBI gene (formerly Entrezgene);Acc:817680]
+AP2EREBP_tnt.ERF1_col_a_m1,AT3G23240,ERF1,ethylene response factor 1 [Source:NCBI gene (formerly Entrezgene);Acc:821902]
+AP2EREBP_tnt.ERF2_col_a_m1,AT5G47220,ERF2,ethylene responsive element binding factor 2 [Source:NCBI gene (formerly Entrezgene);Acc:834768]
+AP2EREBP_tnt.ERF38_col_a_m1,AT2G35700,ERF38,ERF family protein 38 [Source:NCBI gene (formerly Entrezgene);Acc:818139]
+AP2EREBP_tnt.ERF3_col_a_m1,AT1G50640,ERF3,ethylene responsive element binding factor 3 [Source:NCBI gene (formerly Entrezgene);Acc:841486]
+AP2EREBP_tnt.ERF48_col_a_m1,AT2G40340,ERF48,
+AP2EREBP_tnt.ERF4_col_a_m1,AT3G15210,ERF4,ethylene responsive element binding factor 4 [Source:NCBI gene (formerly Entrezgene);Acc:820752]
+AP2EREBP_tnt.ERF5_col_a_m1,AT5G47230,ERF5,ethylene responsive element binding factor 5 [Source:NCBI gene (formerly Entrezgene);Acc:834770]
+AP2EREBP_tnt.ERF6_col_m1,AT4G17490,ERF6,ethylene responsive element binding factor 6 [Source:NCBI gene (formerly Entrezgene);Acc:827463]
+AP2EREBP_tnt.ERF73_col_a_m1,AT1G72360,ERF73,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:843568]
+AP2EREBP_tnt.ERF7_col_a_m1,AT3G20310,ERF7,ethylene response factor 7 [Source:NCBI gene (formerly Entrezgene);Acc:821575]
+AP2EREBP_tnt.ERF8_col_a_m1,AT1G53170,ERF8,
+AP2EREBP_tnt.ERF9_col_a_m1,AT5G44210,ERF9,erf domain protein 9 [Source:NCBI gene (formerly Entrezgene);Acc:834444]
+AP2EREBP_tnt.ESE1_col_a_m1,AT3G23220,ESE1,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:821900]
+AP2EREBP_tnt.ESE3_col_a_m1,AT5G25190,ESE3,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:832590]
+AP2EREBP_tnt.LEP_col_a_m1,AT5G13910,LEP,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:831238]
+AP2EREBP_tnt.PUCHI_col_a_m1,AT5G18560,PUCHI,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:831974]
+AP2EREBP_tnt.RAP211_col_a_m1,AT5G19790,RAP211,
+AP2EREBP_tnt.RAP212_col_a_m1,AT1G53910,RAP212,
+AP2EREBP_tnt.RAP21_col_a_m1,AT1G46768,RAP21,
+AP2EREBP_tnt.RAP26_col_a_m1,AT1G43160,RAP26,
+AP2EREBP_tnt.RRTF1_col_a_m1,AT4G34410,RRTF1,redox responsive transcription factor 1 [Source:NCBI gene (formerly Entrezgene);Acc:829591]
+AP2EREBP_tnt.Rap210_col_a_m1,AT5G52020,RAP210,
+AP2EREBP_tnt.SHN3_col_a_m1,AT5G11190,SHN3,Integrase-type DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:832611]
+AP2EREBP_tnt.TINY_col_a_m1,AT5G25810,TINY,
+ARF_ecoli.MP_col_m1,AT1G19850,MP,Transcriptional factor B3 family protein / auxin-responsive factor AUX/IAA-like protein [Source:NCBI gene (formerly Entrezgene);Acc:838573]
+ARF_tnt.ARF16_col_b_m1,AT4G30080,ARF16,auxin response factor 16 [Source:NCBI gene (formerly Entrezgene);Acc:829131]
+ARF_tnt.ARF2_col_v31_m1,,ARF2,auxin response factor 2 [Source:NCBI gene (formerly Entrezgene);Acc:836321]
+ARID_tnt.AT1G04880_col_a_m1,AT1G04880,,HMG (high mobility group) box protein with ARID/BRIGHT DNA-binding domain-containing protein [Source:NCBI gene (formerly Entrezgene);Acc:839388]
+ARID_tnt.AT2G17410_col_a_m1,,,ARID/BRIGHT DNA-binding domain-containing protein [Source:NCBI gene (formerly Entrezgene);Acc:816247]
+BBRBPC_tnt.BPC1_col_a_m1,AT2G01930,BPC1,basic pentacysteine1 [Source:NCBI gene (formerly Entrezgene);Acc:814724]
+BBRBPC_tnt.BPC5_col_a_m1,AT4G38910,BPC5,basic pentacysteine 5 [Source:NCBI gene (formerly Entrezgene);Acc:830046]
+BBRBPC_tnt.BPC6_col_a_m1,AT5G42520,BPC6,basic pentacysteine 6 [Source:NCBI gene (formerly Entrezgene);Acc:834259]
+BES1_tnt.BAM8_col_a_m1,AT5G45300,BAM8,
+BZR_tnt.At1g78700_col_a_m1,AT1G78700,,
+BZR_tnt.At4g18890_col_a_m1,AT4G18890,,
+BZR_tnt.At4g36780_col_a_m1,AT4G36780,,
+BZR_tnt.BZR1_col_a_m1,AT1G75080,BZR1,Brassinosteroid signaling positive regulator (BZR1) family protein [Source:NCBI gene (formerly Entrezgene);Acc:843845]
+C2C2COlike_tnt.AT4G27900_col_a_m1,AT4G27900,,CCT motif family protein [Source:NCBI gene (formerly Entrezgene);Acc:828903]
+C2C2COlike_tnt.AT5G59990_col_a_m1,AT5G59990,,CCT motif family protein [Source:NCBI gene (formerly Entrezgene);Acc:836121]
+C2C2dof_tnt.AT1G69570_col_a_m1,AT1G69570,,Dof-type zinc finger DNA-binding family protein [Source:NCBI gene (formerly Entrezgene);Acc:843293]
+C2C2dof_tnt.AT2G28810_col_a_m1,AT2G28810,,Dof-type zinc finger DNA-binding family protein [Source:NCBI gene (formerly Entrezgene);Acc:817430]
+C2C2dof_tnt.AT5G02460_col_a_m1,AT5G02460,,Dof-type zinc finger DNA-binding family protein [Source:NCBI gene (formerly Entrezgene);Acc:830976]
+C2C2dof_tnt.AT5G66940_col_a_m1,AT5G66940,,Dof-type zinc finger DNA-binding family protein [Source:NCBI gene (formerly Entrezgene);Acc:836828]
+C2C2dof_tnt.Adof1_col_a_m1,AT1G51700,ADOF1,
+C2C2dof_tnt.At1g64620_100ng20cy_b_m1,AT1G64620,,Dof-type zinc finger DNA-binding family protein [Source:NCBI gene (formerly Entrezgene);Acc:842770]
+C2C2dof_tnt.At3g45610_col_a_m1,AT3G45610,,
+C2C2dof_tnt.At4g38000_col_a_m1,AT4G38000,,
+C2C2dof_tnt.At5g62940_col_a_m1,AT5G62940,,
+C2C2dof_tnt.CDF3_col_a_m1,AT3G47500,CDF3,cycling DOF factor 3 [Source:NCBI gene (formerly Entrezgene);Acc:823904]
+C2C2dof_tnt.COG1_col_a_m1,AT1G29160,COG1,
+C2C2dof_tnt.OBP1_col_a_m1,AT3G50410,OBP1,OBF binding protein 1 [Source:NCBI gene (formerly Entrezgene);Acc:824205]
+C2C2dof_tnt.OBP3_col_a_m1,AT3G55370,OBP3,OBF-binding protein 3 [Source:NCBI gene (formerly Entrezgene);Acc:824703]
+C2C2dof_tnt.OBP4_col_a_m1,AT5G60850,OBP4,OBF binding protein 4 [Source:NCBI gene (formerly Entrezgene);Acc:836206]
+C2C2dof_tnt.dof24_col_a_m1,AT2G37590,DOF24,
+C2C2dof_tnt.dof42_col_a_m1,AT4G21030,DOF42,
+C2C2gata_tnt.GATA14_col_a_m1,,GATA14,GATA transcription factor 14 [Source:NCBI gene (formerly Entrezgene);Acc:823653]
+C2C2gata_tnt.GATA15_col_b_m1,AT3G06740,GATA15,GATA transcription factor 15 [Source:NCBI gene (formerly Entrezgene);Acc:819859]
+C2C2gata_tnt.GATA16_col_a_m1,AT5G49300,GATA16,GATA transcription factor 16 [Source:NCBI gene (formerly Entrezgene);Acc:834990]
+C2C2gata_tnt.GATA1_col_a_m1,AT3G24050,GATA1,GATA transcription factor 1 [Source:NCBI gene (formerly Entrezgene);Acc:821990]
+C2C2gata_tnt.GATA6_col200_a_m1,,GATA6,GATA transcription factor 6 [Source:NCBI gene (formerly Entrezgene);Acc:824272]
+C2C2gata_tnt.ZIM_col_a_m1,AT4G24470,ZIM,GATA-type zinc finger protein with TIFY domain-containing protein [Source:NCBI gene (formerly Entrezgene);Acc:828549]
+C2C2gata_tnt.ZML1_col_a_m1,AT3G21175,ZML1,ZIM-like 1 [Source:NCBI gene (formerly Entrezgene);Acc:821670]
+C2C2gata_tnt.ZML2_col_a_m1,AT1G51600,ZML2,ZIM-LIKE 2 [Source:NCBI gene (formerly Entrezgene);Acc:841585]
+C2H2_tnt.AT2G15740_col_a_m1,AT2G15740,,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:816068]
+C2H2_tnt.AT3G46070_col_a_m1,AT3G46070,,C2H2-type zinc finger family protein [Source:NCBI gene (formerly Entrezgene);Acc:823750]
+C2H2_tnt.AT4G26030_col_a_m1,AT4G26030,,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:828709]
+C2H2_tnt.AT5G22990_col_a_m1,AT5G22990,,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:832363]
+C2H2_tnt.At1g14580_col_a_m1,AT1G14580,,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:838020]
+C2H2_tnt.At2g48100_col_b_m1,AT2G48100,,Exonuclease family protein [Source:NCBI gene (formerly Entrezgene);Acc:819422]
+C2H2_tnt.At3g60580_col_a_m1,,,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:825229]
+C2H2_tnt.At5g04390_col200_a_m1,,,C2H2-type zinc finger family protein [Source:NCBI gene (formerly Entrezgene);Acc:830318]
+C2H2_tnt.At5g66730_col_m1,,,
+C2H2_tnt.AtIDD11_col_a_m1,AT3G13810,ATIDD11,
+C2H2_tnt.IDD2_col_a_m1,AT3G50700,IDD2,indeterminate(ID)-domain 2 [Source:NCBI gene (formerly Entrezgene);Acc:824234]
+C2H2_tnt.IDD4_col_a_m1,AT2G02080,IDD4,indeterminate(ID)-domain 4 [Source:NCBI gene (formerly Entrezgene);Acc:814739]
+C2H2_tnt.IDD5_col_m1,AT2G02070,IDD5,indeterminate(ID)-domain 5 [Source:NCBI gene (formerly Entrezgene);Acc:814738]
+C2H2_tnt.IDD7_col_a_m1,AT1G55110,IDD7,indeterminate(ID)-domain 7 [Source:NCBI gene (formerly Entrezgene);Acc:841954]
+C2H2_tnt.JKD_col_a_m1,AT5G03150,JKD,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:831919]
+C2H2_tnt.MGP_col_a_m1,AT1G03840,MGP,C2H2 and C2HC zinc fingers superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:839396]
+C2H2_tnt.NUC_col_a_m1,AT5G44160,NUC,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:834439]
+C2H2_tnt.SGR5_col_a_m1,AT2G01940,SGR5,C2H2-like zinc finger protein [Source:NCBI gene (formerly Entrezgene);Acc:814725]
+C2H2_tnt.STOP1_col_a_m1,,STOP1,C2H2 and C2HC zinc fingers superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:840339]
+C2H2_tnt.TF3A_col_a_m1,AT1G72050,TF3A,
+C3H_tnt.AT5G63260_col_a_m1,AT5G63260,,Zinc finger C-x8-C-x5-C-x3-H type family protein [Source:NCBI gene (formerly Entrezgene);Acc:836446]
+C3H_tnt.At1g70910_col_a_m1,AT1G70910,,
+C3H_tnt.At1g74370_col_a_m1,AT1G74370,,RING/U-box superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:843778]
+C3H_tnt.At5g08750_col_a_m1,AT5G08750,,RING/FYVE/PHD zinc finger superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:830776]
+C3H_tnt.U2AF35B_col_a_m1,,U2AF35B,Zinc finger C-x8-C-x5-C-x3-H type family protein [Source:NCBI gene (formerly Entrezgene);Acc:834293]
+CAMTA_tnt.CAMTA1_col_a_m1,AT5G09410,CAMTA1,
+CAMTA_tnt.CAMTA5_col_a_m1,AT4G16150,CAMTA5,
+CCAATHAP3_tnt.HAP3_col_a_m1,,HAP3,
+E2FDP_tnt.DEL1_col_a_m1,AT3G48160,DEL1,DP-E2F-like 1 [Source:NCBI gene (formerly Entrezgene);Acc:823971]
+E2FDP_tnt.DEL2_col_a_m1,AT5G14960,DEL2,DP-E2F-like 2 [Source:NCBI gene (formerly Entrezgene);Acc:831348]
+E2FDP_tnt.E2FA_col_a_m1,,E2FA,
+FAR1_tnt.FAR1_col_a_m1,AT4G15090,FAR1,"Input Symbol
+FAR1    FRS (FAR1 Related Sequences) transcription fac...
+FAR1    fatty acid reductase 1 [Source:NCBI gene (form...
+Name: Description, dtype: object"
+FHA_tnt.FHA2_col_b_m1,AT3G07220,FHA2,SMAD/FHA domain-containing protein [Source:NCBI gene (formerly Entrezgene);Acc:819910]
+G2like_tnt.At3g13040_col_b_m1,AT3G13040,,myb-like HTH transcriptional regulator family protein [Source:NCBI gene (formerly Entrezgene);Acc:820490]
+GeBP_tnt.AT4G00250_col_a_m1,AT4G00250,,DNA-binding storekeeper protein-related transcriptional regulator [Source:NCBI gene (formerly Entrezgene);Acc:828046]
+HB_tnt.ATHB15_col_a_m1,,ATHB15,
+HB_tnt.PHV_col_a_m1,,PHV,Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein [Source:NCBI gene (formerly Entrezgene);Acc:839928]
+HMG_tnt.3XHMGBOX1_col_a_m1,AT4G11080,3XHMGBOX1,
+LOBAS2_tnt.AS2_col_a_m1,AT1G65620,AS2,Lateral organ boundaries (LOB) domain family protein [Source:NCBI gene (formerly Entrezgene);Acc:842873]
+LOBAS2_tnt.ASL18_col_a_m1,AT2G42430,ASL18,
+LOBAS2_tnt.LBD13_col_a_m1,AT2G30340,LBD13,LOB domain-containing protein 13 [Source:NCBI gene (formerly Entrezgene);Acc:817584]
+LOBAS2_tnt.LBD18_col_a_m1,AT2G45420,LBD18,LOB domain-containing protein 18 [Source:NCBI gene (formerly Entrezgene);Acc:819150]
+LOBAS2_tnt.LBD19_col_a_m1,,LBD19,LOB domain-containing protein 19 [Source:NCBI gene (formerly Entrezgene);Acc:819149]
+LOBAS2_tnt.LBD2_col_a_m1,AT1G06280,LBD2,LOB domain-containing protein 2 [Source:NCBI gene (formerly Entrezgene);Acc:837139]
+LOBAS2_tnt.LOB_col_a_m1,AT5G63090,LOB,Lateral organ boundaries (LOB) domain family protein [Source:NCBI gene (formerly Entrezgene);Acc:836429]
+MADS_tnt.AGL13_col_b_m1,,AGL13,AGAMOUS-like 13 [Source:NCBI gene (formerly Entrezgene);Acc:825284]
+MADS_tnt.AGL15_col_a_m1,AT5G13790,AGL15,AGAMOUS-like 15 [Source:NCBI gene (formerly Entrezgene);Acc:831224]
+MADS_tnt.AGL16_col_a_m1,AT3G57230,AGL16,AGAMOUS-like 16 [Source:NCBI gene (formerly Entrezgene);Acc:824890]
+MADS_tnt.AGL42_col_a_m1,AT5G62165,AGL42,AGAMOUS-like 42 [Source:NCBI gene (formerly Entrezgene);Acc:836337]
+MADS_tnt.AGL55_col_a_m1,AT1G60920,AGL55,AGAMOUS-like 55 [Source:NCBI gene (formerly Entrezgene);Acc:842383]
+MADS_tnt.AGL6_col_a_m1,AT2G45650,AGL6,AGAMOUS-like 6 [Source:NCBI gene (formerly Entrezgene);Acc:819173]
+MADS_tnt.FEM111_col_a_m1,AT5G48670,FEM111,
+MADS_tnt.SVP_col_v3b_m1,,SVP,K-box region and MADS-box transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:816787]
+MYB_tnt.ATY13_col_a_m1,AT1G74650,ATY13,
+MYB_tnt.ATY19_col_a_m1,AT3G23250,ATY19,
+MYB_tnt.BOS1_col_a_m1,AT3G06490,BOS1,
+MYB_tnt.MS188_col_a_m1,AT5G56110,MS188,
+MYB_tnt.MYB101_col_a_m1,AT2G32460,MYB101,myb domain protein 101 [Source:NCBI gene (formerly Entrezgene);Acc:817807]
+MYB_tnt.MYB107_col_a_m1,AT3G02940,MYB107,myb domain protein 107 [Source:NCBI gene (formerly Entrezgene);Acc:821178]
+MYB_tnt.MYB10_col_a_m1,AT3G12820,MYB10,myb domain protein 10 [Source:NCBI gene (formerly Entrezgene);Acc:820464]
+MYB_tnt.MYB116_col_a_m1,,MYB116,myb domain protein 116 [Source:NCBI gene (formerly Entrezgene);Acc:839118]
+MYB_tnt.MYB13_col_a_m1,,MYB13,myb domain protein 13 [Source:NCBI gene (formerly Entrezgene);Acc:837127]
+MYB_tnt.MYB23_col_a_m1,AT5G40330,MYB23,myb domain protein 23 [Source:NCBI gene (formerly Entrezgene);Acc:834031]
+MYB_tnt.MYB30_col_a_m1,AT3G28910,MYB30,myb domain protein 30 [Source:NCBI gene (formerly Entrezgene);Acc:822525]
+MYB_tnt.MYB39_col_a_m1,,MYB39,myb domain protein 39 [Source:NCBI gene (formerly Entrezgene);Acc:827500]
+MYB_tnt.MYB40_col_a_m1,,MYB40,myb domain protein 40 [Source:NCBI gene (formerly Entrezgene);Acc:831284]
+MYB_tnt.MYB43_col_a_m1,,MYB43,myb domain protein 43 [Source:NCBI gene (formerly Entrezgene);Acc:831522]
+MYB_tnt.MYB44_col_m1,,MYB44,
+MYB_tnt.MYB4_col200_a_m1,AT4G38620,MYB4,myb domain protein 4 [Source:NCBI gene (formerly Entrezgene);Acc:830018]
+MYB_tnt.MYB51_col_a_m1,,MYB51,myb domain protein 51 [Source:NCBI gene (formerly Entrezgene);Acc:838438]
+MYB_tnt.MYB52_col_a_m1,,MYB52,myb domain protein 52 [Source:NCBI gene (formerly Entrezgene);Acc:838374]
+MYB_tnt.MYB55_col_m1,AT4G01680,MYB55,myb domain protein 55 [Source:NCBI gene (formerly Entrezgene);Acc:826853]
+MYB_tnt.MYB58_col_a_m1,,MYB58,myb domain protein 58 [Source:NCBI gene (formerly Entrezgene);Acc:838219]
+MYB_tnt.MYB60_col_m1,AT1G08810,MYB60,myb domain protein 60 [Source:NCBI gene (formerly Entrezgene);Acc:837403]
+MYB_tnt.MYB61_col_a_m1,AT1G09540,MYB61,myb domain protein 61 [Source:NCBI gene (formerly Entrezgene);Acc:837480]
+MYB_tnt.MYB63_col_a_m1,AT1G79180,MYB63,myb domain protein 63 [Source:NCBI gene (formerly Entrezgene);Acc:844259]
+MYB_tnt.MYB65_col200_a_m1,AT3G11440,MYB65,myb domain protein 65 [Source:NCBI gene (formerly Entrezgene);Acc:820317]
+MYB_tnt.MYB67_col_a_m1,AT3G12720,MYB67,myb domain protein 67 [Source:NCBI gene (formerly Entrezgene);Acc:820454]
+MYB_tnt.MYB70_col_a_m1,,MYB70,myb domain protein 70 [Source:NCBI gene (formerly Entrezgene);Acc:816861]
+MYB_tnt.MYB74_col_m1,,MYB74,myb domain protein 74 [Source:NCBI gene (formerly Entrezgene);Acc:825855]
+MYB_tnt.MYB77_col_a_m1,,MYB77,myb domain protein 77 [Source:NCBI gene (formerly Entrezgene);Acc:824168]
+MYB_tnt.MYB83_col_a_m1,AT3G08500,MYB83,myb domain protein 83 [Source:NCBI gene (formerly Entrezgene);Acc:819997]
+MYB_tnt.MYB88_col_a_m1,AT2G02820,MYB88,myb domain protein 88 [Source:NCBI gene (formerly Entrezgene);Acc:814812]
+MYB_tnt.MYB93_col_a_m1,AT1G34670,MYB93,myb domain protein 93 [Source:NCBI gene (formerly Entrezgene);Acc:840371]
+MYB_tnt.MYB94_col_b_m1,AT3G47600,MYB94,myb domain protein 94 [Source:NCBI gene (formerly Entrezgene);Acc:823914]
+MYB_tnt.MYB96_col_b_m1,AT5G62470,MYB96,myb domain protein 96 [Source:NCBI gene (formerly Entrezgene);Acc:836367]
+MYB_tnt.MYB98_col_a_m1,,MYB98,myb domain protein 98 [Source:NCBI gene (formerly Entrezgene);Acc:827611]
+MYB_tnt.MYB99_col_a_m1,AT5G62320,MYB99,myb domain protein 99 [Source:NCBI gene (formerly Entrezgene);Acc:836353]
+MYBrelated_tnt.AT1G18960_col_a_m1,AT1G18960,,myb-like HTH transcriptional regulator family protein [Source:NCBI gene (formerly Entrezgene);Acc:838477]
+MYBrelated_tnt.AT1G72740_col_a_m1,AT1G72740,,Homeodomain-like/winged-helix DNA-binding family protein [Source:NCBI gene (formerly Entrezgene);Acc:843606]
+MYBrelated_tnt.AT3G10113_col_a_m1,AT3G10113,,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:820173]
+MYBrelated_tnt.AT3G10580_col_a_m1,AT3G10580,,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:820225]
+MYBrelated_tnt.AT4G12670_col_a_m1,,,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:826879]
+MYBrelated_tnt.AT5G56840_col_a_m1,,,myb-like transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:835786]
+MYBrelated_tnt.AT5G61620_col_a_m1,AT5G61620,,myb-like transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:836284]
+MYBrelated_tnt.At1g19000_col_a_m1,AT1G19000,,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:838481]
+MYBrelated_tnt.At1g49010_col_a_m1,AT1G49010,,Duplicated homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:841324]
+MYBrelated_tnt.At1g74840_col100_a_m1,,,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:843823]
+MYBrelated_tnt.At2g38090_col_a_m1,AT2G38090,,Duplicated homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:818387]
+MYBrelated_tnt.At3g11280_col_a_m1,AT3G11280,,Duplicated homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:820299]
+MYBrelated_tnt.At4g01280_col_a_m1,,,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:827903]
+MYBrelated_tnt.At5g05790_col_a_m1,AT5G05790,,Duplicated homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:830464]
+MYBrelated_tnt.At5g08520_col_b_m1,,,Duplicated homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:830751]
+MYBrelated_tnt.At5g58900_col_a_m1,AT5G58900,,Homeodomain-like transcriptional regulator [Source:NCBI gene (formerly Entrezgene);Acc:836007]
+MYBrelated_tnt.EPR1_col_m1,,EPR1,"Input Symbol
+EPR1    Homeodomain-like superfamily protein [Source:N...
+EPR1    extensin proline-rich 1 [Source:NCBI gene (for...
+Name: Description, dtype: object"
+MYBrelated_tnt.LCL1_col_m1,,LCL1,LHY/CCA1-like 1 [Source:NCBI gene (formerly Entrezgene);Acc:831766]
+MYBrelated_tnt.LHY1_col_a_m1,AT1G01060,LHY1,
+MYBrelated_tnt.RVE1_col_a_m1,,RVE1,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:831595]
+MYBrelated_tnt.TBP3_col_a_m1,AT5G67580,TBP3,
+MYBrelated_tnt.TRP1_col_m1,,TRP1,"Input Symbol
+TRP1    tryptophan biosynthesis 1 [Source:NCBI gene (f...
+TRP1    telomeric repeat binding protein 1 [Source:NCB...
+Name: Description, dtype: object"
+MYBrelated_tnt.TRP2_col_a_m1,AT3G46590,TRP2,
+NAC_tnt.ANAC004_col_a_m1,,ANAC004,
+NAC_tnt.ANAC005_col_a_m1,AT1G02250,ANAC005,
+NAC_tnt.ANAC011_col_a_m1,AT1G32510,ANAC011,
+NAC_tnt.ANAC013_col_a_m1,AT1G32870,ANAC013,
+NAC_tnt.ANAC016_col_a_m1,AT1G34180,ANAC016,
+NAC_tnt.ANAC017_col_m1,AT1G34190,ANAC017,
+NAC_tnt.ANAC020_col_v31_m1,AT1G54330,ANAC020,
+NAC_tnt.ANAC028_col_a_m1,AT1G65910,ANAC028,
+NAC_tnt.ANAC038_col_a_m1,AT2G24430,ANAC038,
+NAC_tnt.ANAC042_col_a_m1,AT2G43000,ANAC042,
+NAC_tnt.ANAC045_col_a_m1,AT3G03200,ANAC045,
+NAC_tnt.ANAC046_col_m1,AT3G04060,ANAC046,
+NAC_tnt.ANAC047_col_m1,,ANAC047,
+NAC_tnt.ANAC050_col_v3a_m1,AT3G10480,ANAC050,
+NAC_tnt.ANAC053_col_m1,AT3G10500,ANAC053,
+NAC_tnt.ANAC055_col_m1,AT3G15500,ANAC055,
+NAC_tnt.ANAC057_col_a_m1,AT3G17730,ANAC057,
+NAC_tnt.ANAC058_col_a_m1,AT3G18400,ANAC058,
+NAC_tnt.ANAC070_col_m1,AT4G10350,ANAC070,
+NAC_tnt.ANAC071_col_a_m1,AT4G17980,ANAC071,
+NAC_tnt.ANAC075_col_a_m1,AT4G29230,ANAC075,
+NAC_tnt.ANAC079_col_m1,AT5G07680,ANAC079,
+NAC_tnt.ANAC083_col_v3a_m1,AT5G13180,ANAC083,
+NAC_tnt.ANAC087_col_v3a_m1,AT5G18270,ANAC087,NAC domain containing protein 87 [Source:NCBI gene (formerly Entrezgene);Acc:831945]
+NAC_tnt.ANAC092_col_v3a_m1,AT5G39610,ANAC092,
+NAC_tnt.ANAC094_col_a_m1,AT5G39820,ANAC094,
+NAC_tnt.ANAC096_col_m1,AT5G46590,ANAC096,
+NAC_tnt.ANAC103_col_a_m1,AT5G64060,ANAC103,
+NAC_tnt.AT1G19040_col_a_m1,AT1G19040,,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:838486]
+NAC_tnt.AT3G12910_col_a_m1,AT3G12910,,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:820475]
+NAC_tnt.ATAF1_col_a_m1,AT1G01720,ATAF1,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:839265]
+NAC_tnt.CUC1_col_v31_m1,AT3G15170,CUC1,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:820748]
+NAC_tnt.CUC2_col_m1,AT5G53950,CUC2,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:835478]
+NAC_tnt.CUC3_col_a_m1,AT1G76420,CUC3,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:843975]
+NAC_tnt.NAC2_col_v3a_m1,AT5G04410,NAC2,"Input Symbol
+NAC2    NAC domain containing protein 2 [Source:NCBI g...
+NAC2    NAC domain containing protein 2 [Source:NCBI g...
+Name: Description, dtype: object"
+NAC_tnt.NAP_col_v3a_m1,AT1G69490,NAP,"NAC-like, activated by AP3/PI [Source:NCBI gene (formerly Entrezgene);Acc:843282]"
+NAC_tnt.NST1_col_v31_m1,AT2G46770,NST1,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:819290]
+NAC_tnt.NTL8_col_m1,AT2G27300,NTL8,NTM1-like 8 [Source:NCBI gene (formerly Entrezgene);Acc:817273]
+NAC_tnt.NTM1_col_a_m1,,NTM1,NAC with transmembrane motif1 [Source:NCBI gene (formerly Entrezgene);Acc:828149]
+NAC_tnt.NTM2_col_b_m1,,NTM2,
+NAC_tnt.SMB_col_a_m1,AT1G79580,SMB,NAC (No Apical Meristem) domain transcriptional regulator superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:844296]
+NAC_tnt.SND2_col_a_m1,AT4G28500,SND2,
+NAC_tnt.SND3_col_b_m1,AT1G28470,SND3,
+NAC_tnt.VND1_col_a_m1,AT2G18060,VND1,vascular related NAC-domain protein 1 [Source:NCBI gene (formerly Entrezgene);Acc:816318]
+NAC_tnt.VND2_col_a_m1,AT4G36160,VND2,
+NAC_tnt.VND3_col_m1,AT5G66300,VND3,
+NAC_tnt.VND4_col_m1,AT1G12260,VND4,
+NAC_tnt.VND6_col_v31_m1,AT5G62380,VND6,
+ND_tnt.ASHR1_col_a_m1,AT2G17900,ASHR1,
+ND_tnt.AT2G28920_col_a_m1,AT2G28920,,RING/U-box superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:817441]
+ND_tnt.FRS9_col_a_m1,AT4G38170,FRS9,FAR1-related sequence 9 [Source:NCBI gene (formerly Entrezgene);Acc:829973]
+NLP_tnt.AtNLP4_col_b_m1,AT1G20640,ATNLP4,
+Orphan_tnt.AT1G24250_col_a_m1,AT1G24250,,Paired amphipathic helix (PAH2) superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:839039]
+Orphan_tnt.BBX31_col_a_m1,AT3G21890,BBX31,B-box type zinc finger family protein [Source:NCBI gene (formerly Entrezgene);Acc:821744]
+RAV_tnt.RAV1_col_m1,,RAV1,uncharacterized protein [Source:NCBI gene (formerly Entrezgene);Acc:837886]
+REM_tnt.REM19_col_a_m1,AT1G49480,REM19,
+RWPRK_tnt.RKD2_col_a_m1,AT1G74480,RKD2,RWP-RK domain-containing protein [Source:NCBI gene (formerly Entrezgene);Acc:843789]
+SRS_tnt.SRS7_col_a_m1,,SRS7,SHI-related sequence 7 [Source:NCBI gene (formerly Entrezgene);Acc:838567]
+TCP_tnt.At1g69690_col_a_m1,AT1G69690,,
+TCP_tnt.At1g72010_col_m1,AT1G72010,,TCP family transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:843532]
+TCP_tnt.At2g45680_col_b_m1,AT2G45680,,
+TCP_tnt.At5g08330_col_a_m1,AT5G08330,,
+TCP_tnt.TCP14_col_b_m1,AT3G47620,TCP14,"TEOSINTE BRANCHED, cycloidea and PCF (TCP) 14 [Source:NCBI gene (formerly Entrezgene);Acc:823916]"
+TCP_tnt.TCP17_col_a_m1,AT5G08070,TCP17,TCP domain protein 17 [Source:NCBI gene (formerly Entrezgene);Acc:830701]
+TCP_tnt.TCP1_col_a_m1,AT1G67260,TCP1,TCP family transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:3767658]
+TCP_tnt.TCP20_col_a_m1,AT3G27010,TCP20,"TEOSINTE BRANCHED 1, cycloidea, PCF (TCP)-domain family protein 20 [Source:NCBI gene (formerly Entrezgene);Acc:822318]"
+TCP_tnt.TCP7_col_a_m1,AT5G23280,TCP7,
+Trihelix_tnt.AT1G76870_col_b_m1,AT1G76870,,transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:844022]
+Trihelix_tnt.AT3G10030_col_a_m1,,,aspartate/glutamate/uridylate kinase family protein [Source:NCBI gene (formerly Entrezgene);Acc:820164]
+Trihelix_tnt.AT3G25990_col_a_m1,AT3G25990,,Homeodomain-like superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:822196]
+Trihelix_tnt.AT3G58630_col_a_m1,AT3G58630,,sequence-specific DNA binding transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:825032]
+Trihelix_tnt.AT5G05550_col_a_m1,AT5G05550,,sequence-specific DNA binding transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:830438]
+Trihelix_tnt.At3g14180_col_m1,AT3G14180,,
+Trihelix_tnt.GT3a_col_a_m1,AT5G01380,GT3A,
+WRKY_tnt.WRKY11_col_a_m1,AT4G31550,WRKY11,WRKY DNA-binding protein 11 [Source:NCBI gene (formerly Entrezgene);Acc:829282]
+WRKY_tnt.WRKY14_col_a_m1,AT1G30650,WRKY14,WRKY DNA-binding protein 14 [Source:NCBI gene (formerly Entrezgene);Acc:839945]
+WRKY_tnt.WRKY15_col_b_m1,AT2G23320,WRKY15,WRKY DNA-binding protein 15 [Source:NCBI gene (formerly Entrezgene);Acc:816864]
+WRKY_tnt.WRKY17_col_a_m1,AT2G24570,WRKY17,WRKY DNA-binding protein 17 [Source:NCBI gene (formerly Entrezgene);Acc:816993]
+WRKY_tnt.WRKY18_col_a_m1,AT4G31800,WRKY18,WRKY DNA-binding protein 18 [Source:NCBI gene (formerly Entrezgene);Acc:829308]
+WRKY_tnt.WRKY20_col_a_m1,AT4G26640,WRKY20,WRKY family transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:828771]
+WRKY_tnt.WRKY21_col_m1,AT2G30590,WRKY21,WRKY DNA-binding protein 21 [Source:NCBI gene (formerly Entrezgene);Acc:817609]
+WRKY_tnt.WRKY22_col_m1,AT4G01250,WRKY22,WRKY family transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:827896]
+WRKY_tnt.WRKY24_col_a_m1,AT5G41570,WRKY24,WRKY DNA-binding protein 24 [Source:NCBI gene (formerly Entrezgene);Acc:834159]
+WRKY_tnt.WRKY25_col_a_m1,AT2G30250,WRKY25,WRKY DNA-binding protein 25 [Source:NCBI gene (formerly Entrezgene);Acc:817575]
+WRKY_tnt.WRKY26_col_a_m1,AT5G07100,WRKY26,WRKY DNA-binding protein 26 [Source:NCBI gene (formerly Entrezgene);Acc:830601]
+WRKY_tnt.WRKY27_col_a_m1,AT5G52830,WRKY27,WRKY DNA-binding protein 27 [Source:NCBI gene (formerly Entrezgene);Acc:835360]
+WRKY_tnt.WRKY28_col_a_m1,AT4G18170,WRKY28,WRKY DNA-binding protein 28 [Source:NCBI gene (formerly Entrezgene);Acc:827542]
+WRKY_tnt.WRKY29_col_a_m1,AT4G23550,WRKY29,WRKY family transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:828455]
+WRKY_tnt.WRKY30_col_a_m1,AT5G24110,WRKY30,WRKY DNA-binding protein 30 [Source:NCBI gene (formerly Entrezgene);Acc:832476]
+WRKY_tnt.WRKY31_col_a_m1,AT4G22070,WRKY31,WRKY DNA-binding protein 31 [Source:NCBI gene (formerly Entrezgene);Acc:828296]
+WRKY_tnt.WRKY33_col_a_m1,AT2G38470,WRKY33,WRKY DNA-binding protein 33 [Source:NCBI gene (formerly Entrezgene);Acc:818429]
+WRKY_tnt.WRKY3_col_a_m1,AT2G03340,WRKY3,WRKY DNA-binding protein 3 [Source:NCBI gene (formerly Entrezgene);Acc:814863]
+WRKY_tnt.WRKY40_col_m1,AT1G80840,WRKY40,WRKY DNA-binding protein 40 [Source:NCBI gene (formerly Entrezgene);Acc:844423]
+WRKY_tnt.WRKY42_col_a_m1,AT4G04450,WRKY42,WRKY family transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:825775]
+WRKY_tnt.WRKY43_col_a_m1,AT2G46130,WRKY43,WRKY DNA-binding protein 43 [Source:NCBI gene (formerly Entrezgene);Acc:819220]
+WRKY_tnt.WRKY45_col_a_m1,AT3G01970,WRKY45,WRKY DNA-binding protein 45 [Source:NCBI gene (formerly Entrezgene);Acc:821270]
+WRKY_tnt.WRKY46_col_a_m1,AT2G46400,WRKY46,WRKY DNA-binding protein 46 [Source:NCBI gene (formerly Entrezgene);Acc:819248]
+WRKY_tnt.WRKY47_col_a_m1,AT4G01720,WRKY47,WRKY family transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:828001]
+WRKY_tnt.WRKY50_col_a_m1,AT5G26170,WRKY50,WRKY DNA-binding protein 50 [Source:NCBI gene (formerly Entrezgene);Acc:832686]
+WRKY_tnt.WRKY55_col_a_m1,AT2G40740,WRKY55,WRKY DNA-binding protein 55 [Source:NCBI gene (formerly Entrezgene);Acc:818669]
+WRKY_tnt.WRKY59_col_a_m1,AT2G21900,WRKY59,WRKY DNA-binding protein 59 [Source:NCBI gene (formerly Entrezgene);Acc:816726]
+WRKY_tnt.WRKY65_col_a_m1,AT1G29280,WRKY65,WRKY DNA-binding protein 65 [Source:NCBI gene (formerly Entrezgene);Acc:839802]
+WRKY_tnt.WRKY6_col_a_m1,AT1G62300,WRKY6,WRKY family transcription factor [Source:NCBI gene (formerly Entrezgene);Acc:842527]
+WRKY_tnt.WRKY70_col_m1,AT3G56400,WRKY70,WRKY DNA-binding protein 70 [Source:NCBI gene (formerly Entrezgene);Acc:824807]
+WRKY_tnt.WRKY71_col_a_m1,AT1G29860,WRKY71,WRKY DNA-binding protein 71 [Source:NCBI gene (formerly Entrezgene);Acc:839864]
+WRKY_tnt.WRKY75_col_a_m1,AT5G13080,WRKY75,WRKY DNA-binding protein 75 [Source:NCBI gene (formerly Entrezgene);Acc:831147]
+WRKY_tnt.WRKY7_col_m1,AT4G24240,WRKY7,WRKY DNA-binding protein 7 [Source:NCBI gene (formerly Entrezgene);Acc:828525]
+WRKY_tnt.WRKY8_col_m1,AT5G46350,WRKY8,WRKY DNA-binding protein 8 [Source:NCBI gene (formerly Entrezgene);Acc:834678]
+ZFHD_tnt.ATHB34_col_a_m1,,ATHB34,
+bHLH_tnt.BIM1_col_a_m1,AT5G08130,BIM1,basic helix-loop-helix (bHLH) DNA-binding superfamily protein [Source:NCBI gene (formerly Entrezgene);Acc:830708]
+bHLH_tnt.BIM2_col_v3b_m1,AT1G69010,BIM2,BES1-interacting Myc-like protein 2 [Source:NCBI gene (formerly Entrezgene);Acc:843233]
+bHLH_tnt.BIM3_col_a_m1,AT5G38860,BIM3,BES1-interacting Myc-like protein 3 [Source:NCBI gene (formerly Entrezgene);Acc:833877]
+bHLH_tnt.PIF7_col_a_m1,AT5G61270,PIF7,phytochrome-interacting factor7 [Source:NCBI gene (formerly Entrezgene);Acc:836248]
+bHLH_tnt.bHLH104_col_b_m1,AT4G14410,BHLH104,
+bHLH_tnt.bHLH10_col_a_m1,AT2G31220,BHLH10,
+bHLH_tnt.bHLH157_col_a_m1,AT1G64625,BHLH157,
+bHLH_tnt.bHLH18_col_a_m1,AT2G22750,BHLH18,
+bHLH_tnt.bHLH31_col_m1,AT1G59640,BHLH31,
+bHLH_tnt.bHLH34_col_m1,AT3G23210,BHLH34,
+bHLH_tnt.bHLH69_col_a_m1,AT4G30980,BHLH69,
+bHLH_tnt.bHLH74_col_a_m1,AT1G10120,BHLH74,
+bHLH_tnt.bHLH77_col_a_m1,AT3G23690,BHLH77,
+bZIP_tnt.ABF2_col_v3a_m1,AT1G45249,ABF2,abscisic acid responsive elements-binding factor 2 [Source:NCBI gene (formerly Entrezgene);Acc:841095]
+bZIP_tnt.ABI5_col_v3h_m1,AT2G36270,ABI5,Basic-leucine zipper (bZIP) transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:818199]
+bZIP_tnt.AREB3_col_v31_m1,AT3G56850,AREB3,ABA-responsive element binding protein 3 [Source:NCBI gene (formerly Entrezgene);Acc:824852]
+bZIP_tnt.GBF3_col_m1,AT2G46270,GBF3,G-box binding factor 3 [Source:NCBI gene (formerly Entrezgene);Acc:819235]
+bZIP_tnt.GBF5_col_v3a_m1,AT2G18160,GBF5,
+bZIP_tnt.GBF6_col_m1,AT4G34590,GBF6,G-box binding factor 6 [Source:NCBI gene (formerly Entrezgene);Acc:829611]
+bZIP_tnt.TGA10_col_a_m1,AT5G06839,TGA10,bZIP transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:830575]
+bZIP_tnt.TGA2_col_m1,AT5G06950,TGA2,
+bZIP_tnt.TGA4_col_a_m1,AT5G10030,TGA4,TGACG motif-binding factor 4 [Source:NCBI gene (formerly Entrezgene);Acc:830866]
+bZIP_tnt.TGA5_col_v3a_m1,AT5G06960,TGA5,
+bZIP_tnt.TGA9_col_a_m1,AT1G08320,TGA9,bZIP transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:837353]
+bZIP_tnt.bZIP16_col_v3a_m1,AT2G35530,BZIP16,
+bZIP_tnt.bZIP28_col_a_m1,AT3G10800,BZIP28,Basic-leucine zipper (bZIP) transcription factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:820249]
+bZIP_tnt.bZIP3_col_a_m1,AT5G15830,BZIP3,
+bZIP_tnt.bZIP42_col_a_m1,AT3G30530,BZIP42,
+bZIP_tnt.bZIP43_col_a_m1,AT5G38800,BZIP43,
+bZIP_tnt.bZIP44_col_m1,AT1G75390,BZIP44,
+bZIP_tnt.bZIP48_col_a_m1,AT2G04038,BZIP48,
+bZIP_tnt.bZIP50_col_v31_m1,,BZIP50,
+bZIP_tnt.bZIP53_col_m1,AT3G62420,BZIP53,basic region/leucine zipper motif 53 [Source:NCBI gene (formerly Entrezgene);Acc:825415]
+bZIP_tnt.bZIP68_col_a_m1,AT1G32150,BZIP68,
+mTERF_tnt.AT5G23930_col_a_m1,AT5G23930,,Mitochondrial transcription termination factor family protein [Source:NCBI gene (formerly Entrezgene);Acc:832458]
+zfGRF_tnt.AT3G42860_col_a_m1,AT3G42860,,zinc knuckle (CCHC-type) family protein [Source:NCBI gene (formerly Entrezgene);Acc:823332]

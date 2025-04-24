@@ -29,32 +29,32 @@ if (all(sample_metadata$sample_name %in% colnames(data_matrix))) {
     stop("Mismatch: Some row names in sample_names do not match columns in data_matrix") # nolint
 }
 # Check that the sample_ids match in metadata and the data matrix 
-# print(identical(sample_metadata$sample_name, colnames(dge$counts)))  # Check if sample order matches: Should return TRUE, did return true when tested # nolint
+print(identical(sample_metadata$sample_name, colnames(dge$counts)))  # Check if sample order matches: Should return TRUE, did return true when tested # nolint
 
 # Creating gene_lenths for RPKM calculation - only needed to run once, see the read.csv command in next section for results # nolint
-#txdb <- makeTxDbFromGFF(gtf_path, format = "gtf") # Creates a transcript database from the gtf file # nolint
-#exons_by_gene <- exonsBy(txdb, by = "gene") # nolint
-#gene_lengths <- sapply(exons_by_gene, function(exons) sum(width(reduce(exons)))) # nolint
-#gene_id_list <- rownames(data_matrix) # nolint
-#gene_lengths_of_interest <- gene_lengths[intersect(names(gene_lengths), gene_id_list)] # nolint
-#write.csv(gene_lengths_of_interest, file.path(git_path, "cellular_clarity/gene_lengths.csv")) # nolint
+txdb <- makeTxDbFromGFF(gtf_path, format = "gtf") # Creates a transcript database from the gtf file # nolint
+exons_by_gene <- exonsBy(txdb, by = "gene") # nolint
+gene_lengths <- sapply(exons_by_gene, function(exons) sum(width(reduce(exons)))) # nolint
+gene_id_list <- rownames(data_matrix) # nolint
+gene_lengths_of_interest <- gene_lengths[intersect(names(gene_lengths), gene_id_list)] # nolint
+write.csv(gene_lengths_of_interest, file.path(git_path, "cellular_clarity/gene_lengths.csv")) # nolint
 
 # Normalize Counts - use RPKM normalized data (Selene's disertation section 4.3.2) # nolint
 gene_lengths <- read.csv(file.path(git_path, "cellular_clarity/gene_lengths.csv"), row.names = 1)  # nolint
 gene_lengths_vector <- gene_lengths[[1]]  # extract first (or appropriate) column # nolint
 names(gene_lengths_vector) <- rownames(gene_lengths) # Convert to named numeric vector # nolint
 dge$genes$Length <- gene_lengths_vector[rownames(dge$counts)] # Provide gene lengths to DGE object # nolint
-#rpkm_values <- rpkm(dge) # Only needed to do once, see read.csv command below # nolint
-#write.csv(rpkm_values, file.path(git_path, "cellular_clarity/rpkm_values.csv")) # nolint
+rpkm_values <- rpkm(dge) # Only needed to do once, see read.csv command below # nolint
+write.csv(rpkm_values, file.path(git_path, "cellular_clarity/rpkm_values.csv")) # nolint
 rpkm_values <- read.csv(file.path(git_path, "cellular_clarity/paperresults/rpkm_values_pr.csv"), row.names = 1, check.names = FALSE) # Saved rpkm_values to be in genes x samples  # nolint
 # Rename columns of rpkm_values using sample_metadata$sample_name, converting to "A + 1" # nolint
-#colnames(rpkm_values) <- sample_metadata[colnames(rpkm_values), "sample_name"]
+colnames(rpkm_values) <- sample_metadata[colnames(rpkm_values), "sample_name"]
 # Rename dge sample columns to match rpkm_values, temporary
-# colnames(dge$counts) <- sample_metadata[colnames(dge$counts), "sample_name"]
-# print(sum(is.na(dge$genes$Length)))  # Should be 0, tested and this was true # nolint
-# print(identical(colnames(dge$counts), colnames(rpkm_values))) # Should be TRUE, checked and TRUE # nolint
-# print(identical(rownames(dge$samples), colnames(dge$counts)))   # Should be TRUE, checked and TRUE # nolint
-# print(identical(sample_metadata$sample_name, colnames(data_matrix)))  # Should be TRUE, checked and TRUE # nolint
+colnames(dge$counts) <- sample_metadata[colnames(dge$counts), "sample_name"]
+print(sum(is.na(dge$genes$Length)))  # Should be 0, tested and this was true # nolint
+print(identical(colnames(dge$counts), colnames(rpkm_values))) # Should be TRUE, checked and TRUE # nolint
+print(identical(rownames(dge$samples), colnames(dge$counts)))   # Should be TRUE, checked and TRUE # nolint
+print(identical(sample_metadata$sample_name, colnames(data_matrix)))  # Should be TRUE, checked and TRUE # nolint
 
 # Filter lowly expressed genes - need to use the logic presented in paper methods (Selene's disertation section 4.3.2) # nolint
 # Get all sample names for timepoint A
